@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/f1bea279-c463-4a3c-b35d-7a98eb24c575.svg)](https://wakatime.com/@f1bea279-c463-4a3c-b35d-7a98eb24c575)
+
 <!--
 **malei0311/malei0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
